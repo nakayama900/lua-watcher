@@ -8,7 +8,7 @@ source = {
 
 description = {
   summary = 'A Lua module to monitor files from a specific directory',
-  homepage = 'https://github.com/EvandroLG/pegasus.lua',
+  homepage = 'https://github.com/EvandroLG/lua-watcher',
   maintainer = 'Evandro Leopoldino Gonçalves (@evandrolg) <evandrolgoncalves@gmail.com>',
   license = 'MIT <http://opensource.org/licenses/MIT>'
 }
